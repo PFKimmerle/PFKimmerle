@@ -3,6 +3,8 @@
 AI Application Engineer and USAF veteran based in Seattle. I build things and write about it at [Syntax + Glitter](https://pfkimmerle.substack.com).
 
 ## Projects
+- [Alfred](https://github.com/PFKimmerle/Alfred) - Local AI assistant powered by Ollama with voice, RAG, and web search
+- [ApexVora](https://github.com/PFKimmerle/ApexVora) - Carnivorous plant care chatbot with Groq and vision-based plant ID
 - [Murder-Mystery-Game](https://github.com/PFKimmerle/Murder-Mystery-Game) - Solve a randomized murder by interviewing AI-driven suspects (Next.js, TypeScript, Groq)
 - [ScarletSous](https://github.com/PFKimmerle/ScarletSous) - Recipe chatbot with dual API fallback and AI-generated greetings
 - [Tars](https://github.com/PFKimmerle/Tars) - Chatbot styled after TARS from Interstellar, built with Flask and Groq
@@ -11,6 +13,11 @@ AI Application Engineer and USAF veteran based in Seattle. I build things and wr
 - [CheapYellowDisplay_ESP32-2432S028](https://github.com/PFKimmerle/CheapYellowDisplay_ESP32-2432S028) - ESP32 touchscreen display project
 - [Netflix-Viewing-History-Analyzer](https://github.com/PFKimmerle/Netflix-Viewing-History-Analyzer) - Python CLI that breaks down your Netflix watch patterns
 - [Luna-Desktop-Pet](https://github.com/PFKimmerle/Luna-Desktop-Pet) - Sailor Moon desktop companion that idles, walks, sleeps, and dances
+
+## Other Projects
+- Cozy Farming - Deployed browser farming sim
+- Clean + Sparkle - Deployed browser cleanup game
+- Debug Cafe - Deployed browser debugging-themed game
 
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
