@@ -13,4 +13,13 @@ AI Application Engineer and USAF veteran based in Seattle. I build things and wr
 - [Luna-Desktop-Pet](https://github.com/PFKimmerle/Luna-Desktop-Pet) - Sailor Moon desktop companion that idles, walks, sleeps, and dances
 
 ## Stack
-Python, JavaScript, TypeScript, React, Next.js, Node.js, Flask, MongoDB, Groq, Tailwind CSS
+![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
