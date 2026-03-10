@@ -15,10 +15,9 @@ AI Application Engineer and USAF veteran based in Seattle. I build things and wr
 - [Luna-Desktop-Pet](https://github.com/PFKimmerle/Luna-Desktop-Pet) - Sailor Moon desktop companion that idles, walks, sleeps, and dances
 
 ## Other Projects
-- Now Cook This - RAG-powered recipe search over family recipes with ChromaDB
-- Cozy Farming - Deployed browser farming sim
-- Clean + Sparkle - Deployed browser cleanup game
-- Debug Cafe - Deployed browser debugging-themed game
+- [Now Cook This](https://open.substack.com/pub/pfkimmerle/p/now-cook-this-a-cooking-app) - RAG-powered recipe search over family recipes with ChromaDB
+- [Cozy Farming](https://open.substack.com/pub/pfkimmerle/p/cozy-farming) - Deployed browser farming sim
+- [Clean + Sparkle](https://open.substack.com/pub/pfkimmerle/p/clean-sparkle) - Deployed browser cleanup game
 
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white)
